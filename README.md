@@ -2,6 +2,8 @@
 
 GnomenWald!
 
+This project addresses a routing problem with gnomes travelling among villages on toll roads. Each gnome is a separate thread. The assignment specified a fully implemented GUI, topological sort and a minimal spanning tree. The full asssignment is in this repository as HW5description.pdf.
+
 Traveling - happens in a gnome thread.
 	* gnomes are put into groups of keyholders (for finding)
 		- coordinates of the one to find serve as the check
